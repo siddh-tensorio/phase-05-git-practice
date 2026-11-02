@@ -1,5 +1,5 @@
 developer = "scorp"
-skill = "Python"
+skill = "ml"
 
-print("Developer:", ai)
-print("Currently learning:", python)
+print("Developer:", developer)
+print("Currently learning:", skill)
